@@ -111,6 +111,14 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a>
   
+  <a href="https://www.smartcommunications.com/products/smartiq//" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/SmartIQ_from_Smart_Communications.png" alt="SmartIQ" height="35"/> 
+  </a>
+  
+   <a href="https://business.adobe.com/in/products/experience-manager/adobe-experience-manager.html" target="_blank"> 
+    <img src="https://i.postimg.cc/prFkFvn7/aem-logo.png" alt="AEM" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivatejaburle&show_icons=true&locale=en&layout=compact" alt="shivatejaburle" /></p>
