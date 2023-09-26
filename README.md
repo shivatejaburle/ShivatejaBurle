@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.pega.com/" target="_blank">
-    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/pega_logo_vertical.png" alt="pega" width="40" height="40"/>
+    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/pega_logo_vertical.png" alt="pega" width="50" height="50"/>
   </a>
   
   <a href="https://www.w3.org/html/" target="_blank">
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
   </a> 
   
   <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/Adobe-Photoshop-Logo.png" alt="photoshop" width="50" height="40"/> 
+    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/Adobe-Photoshop-Logo.png" alt="photoshop" width="50" height="50"/> 
   </a> 
   
   <a href="https://postman.com" target="_blank"> 
