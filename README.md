@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.pega.com/" target="_blank">
-    <img src="/ShivatejaBurle/blob/main/logos/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/pega_logo_vertical.png" alt="pega" width="40" height="40"/>
   </a>
   
   <a href="https://www.w3.org/html/" target="_blank">
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   </a> 
    
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/bootstrap-logo.png" alt="bootstrap" width="40" height="40"/> 
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -92,14 +92,14 @@ Here are some ideas to get you started:
   </a> 
   
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/mysql.svg" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="https://www.oracle.com/" target="_blank"> 
     <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/Adobe-Photoshop-Logo" alt="photoshop" width="40" height="40"/> 
+    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/Adobe-Photoshop-Logo.png" alt="photoshop" width="40" height="40"/> 
   </a> 
   
   <a href="https://postman.com" target="_blank"> 
@@ -112,6 +112,10 @@ Here are some ideas to get you started:
   
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
     <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+  </a>
+
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
+    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/dynamics-365-logo.png" alt="dynamics365" width="40" height="40"/> 
   </a>
   
   <a href="https://www.smartcommunications.com/products/smartiq//" target="_blank"> 
