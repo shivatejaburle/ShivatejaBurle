@@ -109,6 +109,10 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
+
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/django-logo.png" alt="django" width="80" height="40"/> 
+  </a>
   
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
     <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
