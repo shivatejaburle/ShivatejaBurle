@@ -88,7 +88,7 @@ Here are some ideas to get you started:
   </a> 
    
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/sql-server.svg" alt="mssql" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.mysql.com/" target="_blank"> 
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
   </a> 
   
   <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/Adobe-Photoshop-Logo.png" alt="photoshop" width="40" height="40"/> 
+    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/Adobe-Photoshop-Logo.png" alt="photoshop" width="50" height="40"/> 
   </a> 
   
   <a href="https://postman.com" target="_blank"> 
