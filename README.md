@@ -99,7 +99,7 @@ Here are some ideas to get you started:
   </a> 
   
   <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/Adobe-Photoshop-Logo.png" alt="photoshop" width="50" height="50"/> 
+    <img src="https://github.com/shivatejaburle/ShivatejaBurle/blob/main/logos/Adobe-Photoshop-Logo.png" alt="photoshop" width="60" height="40"/> 
   </a> 
   
   <a href="https://postman.com" target="_blank"> 
