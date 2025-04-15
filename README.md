@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Shivateja Burle</h1>
-<h3 align="center">Solutions Lead</h3>
+<h3 align="center">Lead Solutions Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivatejaburle&label=Profile%20views&color=0e75b6&style=flat" alt="shivatejaburle" /> </p>
 
@@ -133,6 +133,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivatejaburle&show_icons=true&locale=en&layout=compact" alt="shivatejaburle" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivatejaburle&show_icons=true&locale=en" alt="shivatejaburle" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivatejaburle&show_icons=true&locale=en" alt="shivatejaburle" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivatejaburle&" alt="shivatejaburle" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivatejaburle&" alt="shivatejaburle" /></p> -->
